@@ -1,0 +1,4 @@
+# Build
+```
+sbt clean compile
+```
