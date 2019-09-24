@@ -16,3 +16,4 @@ sbt clean compile
 ** What should we use and why?
 * How do we build reactive (Rx) applications with Scala?
 * How do we build gRPC / protobuf services with Scala?
+* What are idiomatic ways of building concurrency into Scala applications?
